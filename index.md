@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<h1>CAMICON</h1>
 
-You can use the [editor on GitHub](https://github.com/Prescard/C.icon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Campus Icon </h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Going beyond limits</h3>
 
-### Markdown
+<p>Paragraphs are separated
+by a blank line.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>Two spaces at the end of a line leave a<br />
+line break.</p>
 
-```markdown
-Syntax highlighted code block
+<p>Text attributes <em>italic</em>, <em>italic</em>, <strong>bold</strong>, <strong>bold</strong>, <code>monospace</code>.</p>
 
-# CAMICON
-## Campus Icon
-### Going beyond the limits
+<p>Horizontal rule:</p>
 
-- Bulleted
-- List
+<hr />
 
-1. Numbered
-2. List
+<p>Bullet list:</p>
 
-**Bold** and _Italic_ and `Code` text
+<ul>
+<li>apples</li>
+<li>oranges</li>
+<li>pears</li>
+</ul>
 
-[**Link**](camicon.com) and ![Image]("pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;")
-```
+<p>Numbered list:</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<ol>
+<li>apples</li>
+<li>oranges</li>
+<li>pears</li>
+</ol>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prescard/C.icon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>A <a href="http://example.com">link</a>.</p>
