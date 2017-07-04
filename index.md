@@ -12,24 +12,10 @@ He left her quickly, fearing that her intimacy might turn to jibing and wishing 
 
 <p>Text attributes <em>italic</em>, <em>italic</em>, <strong>bold</strong>, <strong>bold</strong>, <code>monospace</code>.</p>
 
-<p>Horizontal rule:</p>
+
 
 <hr />
 
-<p>Bullet list:</p>
 
-<ul>
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-</ul>
-
-<p>Numbered list:</p>
-
-<ol>
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-</ol>
 
 <p>A <a href="http://example.com">link</a>.</p>
